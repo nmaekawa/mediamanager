@@ -1,0 +1,1 @@
+-r media_management_api/requirements/base.txt
